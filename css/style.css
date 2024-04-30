@@ -735,4 +735,16 @@ textarea {
       margin-bottom: 3rem;
     }
     
+    #footer-name {
+      font-size: 1.6em; /* or use px, pt, etc. */
+  }
+  
+  .footer-contact {
+      font-size: 1.4em; /* Standard size for the contact info */
+  }
+  
+  #footer-phone, #footer-email {
+      font-size: 1.4em; /* Ensures both phone and email have the same size */
+  }
+  
     
