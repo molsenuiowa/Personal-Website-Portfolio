@@ -706,7 +706,7 @@ textarea {
     
     .project-details__visualization {
       /* Add more space below each visualization */
-      margin-bottom: 4rem; /* Increased from 2rem to 4rem for more space */
+      margin-bottom: 6rem; /* Increased from 2rem to 4rem for more space */
     }
     
     .project-details__visualization-img {
@@ -720,19 +720,19 @@ textarea {
     .project-details__visualization-desc,
     .project-details__desc-para {
       /* Unified styles for all descriptions for consistency */
-      margin-top: 1.5rem; /* Increased space between the image and the description */
+      margin-top: 2rem; /* Increased space between the image and the description */
       text-align: center; /* Center-align the description */
-      font-size: 1.2rem; /* Increased font size for better visibility */
-      line-height: 1.6; /* Adjusted line height for better readability */
+      font-size: 1.8rem; /* Increased font size for better visibility */
+      line-height: 1.8; /* Adjusted line height for better readability */
       color: #333;
     }
     
     /* Optional: If you have a specific class for the summary under the project overview, you can style it separately */
     .project-overview-summary {
       /* This class name is just an example; replace with your actual class name if different */
-      font-size: 1.2rem; /* Adjust as needed */
-      line-height: 1.6;
-      margin-bottom: 2rem;
+      font-size: 1.8rem; /* Adjust as needed */
+      line-height: 1.8;
+      margin-bottom: 3rem;
     }
     
     
